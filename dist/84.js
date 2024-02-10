@@ -1,0 +1,1 @@
+(self.webpackChunkmy_webpack=self.webpackChunkmy_webpack||[]).push([[84],{84:e=>{e.exports=()=>{console.log("Я - модуль Two!")}}}]);
